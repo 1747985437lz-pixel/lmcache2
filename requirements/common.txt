@@ -20,7 +20,7 @@ prometheus_client >= 0.18.0, <= 0.24.1
 psutil
 py-cpuinfo
 pyyaml
-pyzmq >= 25.0.0
+pyzmq >= 27.1.0
 redis
 safetensors
 setuptools>=77.0.3,<81.0.0
